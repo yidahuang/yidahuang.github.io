@@ -27,9 +27,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a6afd9a-db3b-4132-95e0-e9011e8b1e5d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
-    </list>
+    <list default="true" id="4a6afd9a-db3b-4132-95e0-e9011e8b1e5d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1587458428493</updated>
       <workItem from="1587458429860" duration="628000" />
-      <workItem from="1592087176902" duration="4529000" />
+      <workItem from="1592087176902" duration="4855000" />
     </task>
     <task id="LOCAL-00001" summary="first version">
       <created>1592091522080</created>
@@ -74,7 +72,21 @@
       <option name="project" value="LOCAL" />
       <updated>1592091522080</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="edit Readme.md">
+      <created>1592091871009</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592091871009</updated>
+    </task>
+    <task id="LOCAL-00003" summary="revise the letter case">
+      <created>1592092032282</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1592092032282</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,20 +106,22 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first version" />
-    <option name="LAST_COMMIT_MESSAGE" value="first version" />
+    <MESSAGE value="edit Readme.md" />
+    <MESSAGE value="revise the letter case" />
+    <option name="LAST_COMMIT_MESSAGE" value="revise the letter case" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="533" y="100" width="912" height="905" key="CommitChangelistDialog2" timestamp="1592091522023">
+    <state x="533" y="100" width="912" height="905" key="CommitChangelistDialog2" timestamp="1592092032231">
       <screen x="69" y="27" width="1851" height="1053" />
     </state>
-    <state x="533" y="100" width="912" height="905" key="CommitChangelistDialog2/69.27.1851.1053/1920.0.1920.1080@69.27.1851.1053" timestamp="1592091522023" />
-    <state x="483" y="187" key="SettingsEditor" timestamp="1592091706567">
+    <state x="533" y="100" width="912" height="905" key="CommitChangelistDialog2/69.27.1851.1053/1920.0.1920.1080@69.27.1851.1053" timestamp="1592092032231" />
+    <state x="483" y="187" key="SettingsEditor" timestamp="1592091729945">
       <screen x="69" y="27" width="1851" height="1053" />
     </state>
-    <state x="483" y="187" key="SettingsEditor/69.27.1851.1053/1920.0.1920.1080@69.27.1851.1053" timestamp="1592091706567" />
-    <state x="589" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1592091528364">
+    <state x="483" y="187" key="SettingsEditor/69.27.1851.1053/1920.0.1920.1080@69.27.1851.1053" timestamp="1592091729945" />
+    <state x="589" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1592091875733">
       <screen x="69" y="27" width="1851" height="1053" />
     </state>
-    <state x="589" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/69.27.1851.1053/1920.0.1920.1080@69.27.1851.1053" timestamp="1592091528364" />
+    <state x="589" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/69.27.1851.1053/1920.0.1920.1080@69.27.1851.1053" timestamp="1592091875733" />
   </component>
 </project>
